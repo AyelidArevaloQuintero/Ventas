@@ -372,7 +372,7 @@
             {
                 id: 42,
                 code: "68224931",
-                title: "Tazade vidrio",
+                title: "Taza de vidrio",
                 description: "Taza de paja con tapa de madera y decoracion de lazo, capacidad 500ml.",
                 price: "$28.000 ",
                 category: "casa",
