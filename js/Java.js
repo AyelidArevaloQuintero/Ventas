@@ -372,7 +372,7 @@
             {
                 id: 42,
                 code: "68224931",
-                title: "Tazade vidrio",
+                title: "Taza de vidrio",
                 description: "Taza de paja con tapa de madera y decoracion de lazo, capacidad 500ml.",
                 price: "$28.000 ",
                 category: "casa",
@@ -387,6 +387,160 @@
                 category: "casa",
                 icon: "img/93682408.jpg"
             },
+            {
+                id: 44,
+                code: "8844627",
+                title: "Tops",
+                description: "Tops deporivo, set de 3 pizas.",
+                price: "$63.000 ",
+                category: "mujer",
+                icon: "img/8844627.jpg"
+            },
+            {
+                id: 45,
+                code: "40696900",
+                title: "Audifonos",
+                description: "Audifonos inalambricos Tws cabina especial, con pantalla led.",
+                price: "$18.000 ",
+                category: "tecno",
+                icon: "img/40696900.jpg"
+            },
+            {
+                id: 46,
+                code: "71508475",
+                title: "Audifonos",
+                description: "Audifonos inalambricos X3 con pantalla led.",
+                price: "$30.000 ",
+                category: "tecno",
+                icon: "img/71508475.jpg"
+            },
+            {
+                id: 47,
+                code: "17220322",
+                title: "Gorra",
+                description: "Gorra de beisbol estilo Y2k, con estampado de corazón.",
+                price: "$16.000 ",
+                category: "accesorios",
+                icon: "img/17220322.jpg"
+            },
+            {
+                id: 48,
+                code: "83300458",
+                title: "Camiseta",
+                description: "Camiseta ajustada de manga corta asimetrica con hombros delizantes, lazo bordado.",
+                price: "$30.000 ",
+                category: "mujer",
+                icon: "img/83300458.jpg"
+            },
+            {
+                id: 49,
+                code: "15081431",
+                title: "Camiseta Corta",
+                description: "Camiseta corta con nudo delantero solido.",
+                price: "$45.000 ",
+                category: "mujer",
+                icon: "img/15081431.jpg"
+            },
+            {
+                id: 50,
+                code: "69636137",
+                title: "Camiseta",
+                description: "Camiseta de manga corta con cuello redondo, con perlas falsas en forma de corazón.",
+                price: "$30.000 ",
+                category: "mujer",
+                icon: "img/69636137.jpg"
+            },
+            {
+                id: 51,
+                code: "85957184",
+                title: "Camiseta",
+                description: "Camiseta de manga corta de mujer con cuello redondo.",
+                price: "$35.000 ",
+                category: "mujer",
+                icon: "img/85957184.jpg"
+            },
+            {
+                id: 52,
+                code: "85957184",
+                title: "Camiseta",
+                description: "Camiseta de manga corta de mujer con cuello redondo.",
+                price: "$35.000 ",
+                category: "mujer",
+                icon: "img/85957184.jpg"
+            },
+            {
+                id: 53,
+                code: "3397174",
+                title: "Saco corto",
+                description: "Saco corto con cremallera, hombros caídos y manga larga.",
+                price: "$60.000 ",
+                category: "mujer",
+                icon: "img/3397174.jpg"
+            },
+            {
+                id: 54,
+                code: "10331907",
+                title: "Camiseta corta",
+                description: "Camiseta corta y con grafico de letras muy comoda.",
+                price: "$30.000 ",
+                category: "mujer",
+                icon: "img/10331907.jpg"
+            },
+            {
+                id: 55,
+                code: "93036042",
+                title: "Set 2 piezas",
+                description: "Set 2 piezas de camiseta y short con estampado para mujer.",
+                price: "$70.000 ",
+                category: "mujer",
+                icon: "img/93036042.jpg"
+            },
+            {
+                id: 56,
+                code: "9126267",
+                title: "Pantalón",
+                description: "Pantalones de cintura alta solidos.",
+                price: "$75.000 ",
+                category: "mujer",
+                icon: "img/9126267.jpg"
+            },
+            {
+                id: 57,
+                code: "36391039",
+                title: "Pantalón",
+                description: "Pantalones casuales simples unicolor.",
+                price: "$85.000 ",
+                category: "mujer",
+                icon: "img/36391039.jpg"
+            },
+            {
+                id: 58,
+                code: "43473012",
+                title: "Pantalón",
+                description: "Pantalones capri de pierna ancha estilo casual.",
+                price: "$45.000 ",
+                category: "mujer",
+                icon: "img/43473012.jpg"
+            },
+            {
+                id: 59,
+                code: "48351042",
+                title: "Pantalón",
+                description: "Pantalones casuales de color negro on rayas laterales.",
+                price: "$60.000 ",
+                category: "mujer",
+                icon: "img/48351042.jpg"
+            },
+            {
+                id: 60,
+                code: "20856965",
+                title: "Clip de Cabello",
+                description: "3 piezas de Clips para el cabello con mariposa.",
+                price: "$8.500 ",
+                category: "mujer",
+                icon: "img/48351042.jpg"
+            },
+    
     
         ];
 
