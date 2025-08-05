@@ -529,7 +529,7 @@
                 description: "3 piezas de Clips para el cabello con mariposa.",
                 price: "$8.500 ",
                 category: "mujer",
-                icon: "img/48351042.jpg"
+                icon: "img/20856965.jpg"
             },
     
     
