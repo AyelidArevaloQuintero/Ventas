@@ -461,15 +461,6 @@
             },
             {
                 id: 52,
-                code: "85957184",
-                title: "Camiseta",
-                description: "Camiseta de manga corta de mujer con cuello redondo.",
-                price: "$35.000 ",
-                category: "mujer",
-                icon: "img/85957184.jpg"
-            },
-            {
-                id: 53,
                 code: "3397174",
                 title: "Saco corto",
                 description: "Saco corto con cremallera, hombros caídos y manga larga.",
@@ -478,7 +469,7 @@
                 icon: "img/3397174.jpg"
             },
             {
-                id: 54,
+                id: 53,
                 code: "10331907",
                 title: "Camiseta corta",
                 description: "Camiseta corta y con grafico de letras muy comoda.",
@@ -487,7 +478,7 @@
                 icon: "img/10331907.jpg"
             },
             {
-                id: 55,
+                id: 54,
                 code: "93036042",
                 title: "Set 2 piezas",
                 description: "Set 2 piezas de camiseta y short con estampado para mujer.",
@@ -496,7 +487,7 @@
                 icon: "img/93036042.jpg"
             },
             {
-                id: 56,
+                id: 55,
                 code: "9126267",
                 title: "Pantalón",
                 description: "Pantalones de cintura alta solidos.",
@@ -505,7 +496,7 @@
                 icon: "img/9126267.jpg"
             },
             {
-                id: 57,
+                id: 56,
                 code: "36391039",
                 title: "Pantalón",
                 description: "Pantalones casuales simples unicolor.",
@@ -514,7 +505,7 @@
                 icon: "img/36391039.jpg"
             },
             {
-                id: 58,
+                id: 57,
                 code: "43473012",
                 title: "Pantalón",
                 description: "Pantalones capri de pierna ancha estilo casual.",
@@ -523,7 +514,7 @@
                 icon: "img/43473012.jpg"
             },
             {
-                id: 59,
+                id: 58,
                 code: "48351042",
                 title: "Pantalón",
                 description: "Pantalones casuales de color negro on rayas laterales.",
@@ -532,7 +523,7 @@
                 icon: "img/48351042.jpg"
             },
             {
-                id: 60,
+                id: 59,
                 code: "20856965",
                 title: "Clip de Cabello",
                 description: "3 piezas de Clips para el cabello con mariposa.",
